@@ -1,9 +1,12 @@
-### Olá, eu sou Bruce Trindade 👋
-## Desenvolvedor Android Jr.
+# Olá, eu sou Bruce Trindade 👋
+Desenvolvedor Android Jr.
+- Formado em Análise e Desenvolvimento de Sistemas
+- Atuando como Desenvolvedor Android Jr em um app de delivery (FarmáciasAPP)
+- Atualmente estudando Android com Kotlin e me aventurando em web por curiosidade
 <div align="center">
   <a href="https://github.com/brucetrindade">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=brucetrindade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brucetrindade&layout=compact&langs_count=7&theme=dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=brucetrindade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brucetrindade&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
