@@ -1,4 +1,4 @@
-# Olá, eu sou Bruce Trindade 👋
+# Hello World 👋
 Desenvolvedor Android Jr.
 - Formado em Análise e Desenvolvimento de Sistemas
 - Atuando como Desenvolvedor Android Jr em um app de delivery (FarmáciasAPP)
