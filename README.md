@@ -1,4 +1,4 @@
-# <Hello World/> 👋
+# Hello World 👋
 Sou Desenvolvedor,
 - Formado em Análise e Desenvolvimento de Sistemas
 - Atuando como Desenvolvedor Android Jr
