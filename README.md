@@ -1,7 +1,7 @@
-# Hello World 👋
-Desenvolvedor Android Jr.
+# <Hello World> 👋
+Sou Desenvolvedor,
 - Formado em Análise e Desenvolvimento de Sistemas
-- Atuando como Desenvolvedor Android Jr em um app de delivery (FarmáciasAPP)
+- Atuando como Desenvolvedor Android Jr
 - Atualmente estudando Android com Kotlin e nas horas vagas edição de vídeo por curiosidade
 <div align="center">
   <a href="https://github.com/brucetrindade">
