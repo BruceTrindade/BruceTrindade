@@ -1,5 +1,5 @@
 # Hello World 👋
-Sou Desenvolvedor,
+Sou Programador,
 - Formado em Análise e Desenvolvimento de Sistemas
 - Atuando como Desenvolvedor Android Jr
 - Atualmente estudando Android com Kotlin, estrutura de dados e nas horas vagas edição de vídeo por curiosidade
