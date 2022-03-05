@@ -4,7 +4,7 @@ Sou Programador,
 - Atuando como Desenvolvedor Android Jr
 - Atualmente estudando Android com Kotlin, estrutura de dados e nas horas vagas edição de vídeo por curiosidade
 <div align="center">
-  <a href="https://github.com/brucetrindade">
+  <a href="https://github.com/micaelomota">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=brucetrindade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brucetrindade&layout=compact&langs_count=7&theme=dark"/>
 </div>
