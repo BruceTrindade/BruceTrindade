@@ -2,7 +2,6 @@
 Sou Programador,
 - Formado em Análise e Desenvolvimento de Sistemas
 - Atuando como Desenvolvedor Android Jr
-- Atualmente estudando Android com Kotlin, estrutura de dados e nas horas vagas edição de vídeo por curiosidade
 <div align="center">
   <a href="https://github.com/brucetrindade">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=brucetrindade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
