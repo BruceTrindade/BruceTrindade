@@ -1,7 +1,7 @@
 # Hello World 👋 ![](https://visitor-badge.glitch.me/badge?page_id=brucetrindade)
-Sou Programador,
+<!-- Sou Programador,
 - Formado em Análise e Desenvolvimento de Sistemas
-- Atuando como Desenvolvedor Android Jr
+- Atuando como Desenvolvedor Android Jr -->
 <!-- <div align="center">
   <a href="https://github.com/brucetrindade">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=brucetrindade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
