@@ -1,4 +1,5 @@
 # Hello World 👋 
+stay focused 🐢
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=brucetrindade) -->
 <!-- Sou Programador,
 - Formado em Análise e Desenvolvimento de Sistemas
