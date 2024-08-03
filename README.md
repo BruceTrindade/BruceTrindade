@@ -1,5 +1,7 @@
 # Hello World 👋 
-stay focused 🐢
+Focus is the way 🐢
+
+Software developer, for the last 3 years working on applications with millions of downloads on Google Play as an Android developer.
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=brucetrindade) -->
 <!-- Sou Programador,
 - Formado em Análise e Desenvolvimento de Sistemas
